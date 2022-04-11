@@ -5,4 +5,4 @@ This is an automatic plant watering system.Arduino Uno board has used as the mai
 
 ## REQUIREMENTS
 
- Markup :  -Bullet list
+* Bullet list
