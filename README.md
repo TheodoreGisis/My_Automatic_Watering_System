@@ -7,10 +7,10 @@ This is an automatic plant watering system.Arduino Uno board has used as the mai
 
 * Arduino Uno board
 * 1 or 2 soil moisture sensors
-* lcd 16x2 
+* Lcd 16x2 
 * Red and blue leds
 * Ultrasonic sensor
-* breadboard
+* Breadboard
 * 330Ω resistors
 * Relay
 * Water pump
