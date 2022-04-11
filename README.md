@@ -15,3 +15,4 @@ This is an automatic plant watering system.Arduino Uno board has used as the mai
 * Relay
 * Water pump
 * Pressure Sensor BMP280
+* 12Volt and 5Volt adapter
