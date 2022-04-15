@@ -29,3 +29,15 @@ This is an automatic plant watering system.Arduino Uno board has used as the mai
 5.Connect the black wire of the pump and connect to the adapter on minus pin (-).
 
 6.Take a jumper wire and connect to the plus pin of the adapter and connect with NO (Normally open 120–240V terminal) pin on Relay.
+
+7. Connect the ground and the Vcc pins of the Ultrasonic sensor in breadboard.
+
+8.Connect the trig pin of the Ultrasonic sensor on pin 9 of Arduino and echo pin on 13.
+
+9.Connect the Vcc and the ground of the soil moisture sensor on the breadboard.
+
+10.Connect moisture's A0 pin on the A0 analog pin of the Arduino.
+
+11.Connect the Vcc and the ground pins of BMP280 Barometric.
+
+12.
