@@ -23,3 +23,9 @@ This is an automatic plant watering system.Arduino Uno board has used as the mai
 2.Connect the relay's ground to the negative rail of the breadboard.
 
 3.Connect relay's IN pin to Pin 8 in Arduino
+
+4.Connect red wire (+) of the pump to the C (Common terminal) pin of the relay.
+
+5.Connect the black wire of the pump and connect to the adapter on minus pin (-).
+
+6.Take a jumper wire and connect to the plus pin of the adapter and connect with NO (Normally open 120–240V terminal) pin on Relay.
