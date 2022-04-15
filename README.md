@@ -30,7 +30,7 @@ This is an automatic plant watering system.Arduino Uno board has used as the mai
 
 6.Take a jumper wire and connect to the plus pin of the adapter and connect with NO (Normally open 120–240V terminal) pin on Relay.
 
-7. Connect the ground and the Vcc pins of the Ultrasonic sensor in breadboard.
+7.Connect the ground and the Vcc pins of the Ultrasonic sensor in breadboard.
 
 8.Connect the trig pin of the Ultrasonic sensor on pin 9 of Arduino and echo pin on 13.
 
