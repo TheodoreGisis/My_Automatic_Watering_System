@@ -40,4 +40,15 @@ This is an automatic plant watering system.Arduino Uno board has used as the mai
 
 11.Connect the Vcc and the ground pins of BMP280 Barometric.
 
-12.
+12.Connect BMP280's SCL pin on A5 pin of the Arduino(Remember that A5 analog pin is the SCL pin of arduino).
+
+13.Connect BMP280's SDA pin on A4 pin of the Arduino (Remember that A4 analog pin is the SDA pin of arduino).
+
+14.Connect one 330Ω resistor in series with one Red led and connect the edge on the 7 pin of Arduino.
+
+15.Connect one 330Ω resistor in series with one Blue led and connect the edge on the 10 pin of Arduino.
+
+16.For the LCD display Connect:
+    D4 - > PIN 5 
+    
+    D5 -> PIN 4
