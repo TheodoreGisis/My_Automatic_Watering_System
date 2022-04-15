@@ -49,5 +49,6 @@ This is an automatic plant watering system.Arduino Uno board has used as the mai
 15.Connect one 330Ω resistor in series with one Blue led and connect the edge on the 10 pin of Arduino.
 
 16.For the LCD display Connect:
+
 *D4 - > PIN 5 
 *D5 -> PIN 4
