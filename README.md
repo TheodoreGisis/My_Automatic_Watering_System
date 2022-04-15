@@ -50,5 +50,5 @@ This is an automatic plant watering system.Arduino Uno board has used as the mai
 
 16.For the LCD display Connect:
 
-*D4 - > PIN 5 
-*D5 -> PIN 4
+* D4 - > PIN 5 
+* D5 -> PIN 4
