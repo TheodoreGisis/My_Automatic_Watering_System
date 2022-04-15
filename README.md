@@ -19,5 +19,7 @@ This is an automatic plant watering system.Arduino Uno board has used as the mai
 
 ## CONNECTION
 1.Connect the relay's Vcc to 5Volt.
+
 2.Connect the relay's ground to the negative rail of the breadboard.
+
 3.Connect relay's IN pin to Pin 8 in Arduino
