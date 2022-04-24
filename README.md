@@ -71,3 +71,5 @@ This is an automatic plant watering system.Arduino Uno board has used as the mai
   <img width="750" height="500" src="https://github.com/TheodoreGisis/My_Automatic_Watering_System/blob/main/CIRCUIT.png" >
   
 </p>
+
+FOR THE LCD CONNECTION SEE THE "CONNECTION" CHAPTER
