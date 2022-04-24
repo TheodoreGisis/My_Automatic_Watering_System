@@ -72,4 +72,4 @@ This is an automatic plant watering system.Arduino Uno board has used as the mai
   
 </p>
 
-###                                                     FOR THE LCD CONNECTION SEE THE "CONNECTION" CHAPTER
+###  !!! FOR THE LCD CONNECTION SEE THE "CONNECTION" CHAPTER !!!
