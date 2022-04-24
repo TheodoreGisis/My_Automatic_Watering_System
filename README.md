@@ -62,3 +62,6 @@ This is an automatic plant watering system.Arduino Uno board has used as the mai
 * Vss->Ground
 * V0->PIN 6
 * RW ->Ground
+
+
+##CIRCUIT
