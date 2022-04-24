@@ -67,5 +67,5 @@ This is an automatic plant watering system.Arduino Uno board has used as the mai
 ## CIRCUIT
 
 p align="center">
-  <img width="430" height="470" src="https://github.com/TheodoreGisis/WallFollowingRobot/blob/main/Robot/ROBOT.jpg" >
+  <img width="430" height="470" src="https://github.com/TheodoreGisis/My_Automatic_Watering_System/blob/main/CIRCUIT.png" >
 </p>
