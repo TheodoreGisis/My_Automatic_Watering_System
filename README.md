@@ -55,7 +55,7 @@ This is an automatic plant watering system.Arduino Uno board has used as the mai
 * D6 -> PIN 9
 * D7 -> PIN 2
 * E -> PIN 11
-* R5 ->PIN 12
+* Rs ->PIN 12
 * A-> 5Volts
 * K-> Ground
 * VDD->5Volts
