@@ -1,7 +1,7 @@
 # My_Automatic_Watering_System
 
 <img
-  src="/path/to/img.jpg"
+  src="[/path/to/img.jpg](https://github.com/TheodoreGisis/My_Automatic_Watering_System/blob/main/WateringSystem.jpg)"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
